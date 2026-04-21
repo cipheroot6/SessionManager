@@ -17,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/cipheroot6/ActivityTracker/issues"
   },
-  "homepage": "https://github.com/cipheroot6/ActivityTracker#readme"
+  "homepage": "https://github.com/cipheroot6/ActivityTracker#readme",
+  "dependencies": {}
 }
